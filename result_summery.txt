@@ -1,0 +1,8 @@
+No. of Student = 3
+Minimum Mark = 58
+Maximum Mark = 80
+Average Mark = 65.0
+
+fjdvnls -58 (C)
+nlxmzn. -58 (C)
+mclxm -80 (A)
